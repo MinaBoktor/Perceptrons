@@ -67,3 +67,4 @@ streamlit run app.py
 ## 📊 Results & Analysis
 
 The framework demonstrates that while both models succeed on well-separated data, **Adaline consistently outperforms the Perceptron on overlapping feature sets**. By minimizing cost rather than just reacting to errors, Adaline finds a boundary that maximizes the "safety margin" between clusters, proving more robust against noise in non-linearly separable environments.
+<img width="1918" height="859" alt="Screenshot 2026-03-12 143456" src="https://github.com/user-attachments/assets/08b67e5f-c45b-43ef-af42-aa138657ca36" />
