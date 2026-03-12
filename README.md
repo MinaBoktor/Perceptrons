@@ -37,7 +37,7 @@ An improvement over the basic Perceptron that uses a **linear activation functio
 | `perceptrons.py` | The backend engine containing the custom SLP and Adaline classes/functions. |
 | `preprocessing.py` | Data pipeline for handling missing values, label encoding, and feature scaling (StandardScaler). |
 | `requirements.txt` | List of necessary Python dependencies. |
-| `data.csv` | The dataset used for training and validation. |
+| `penguins.csv` | The dataset used for training and validation. |
 
 ---
 
